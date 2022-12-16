@@ -7,4 +7,5 @@ bash /home/server/Scripts/allowFTP.sh
 bash /home/server/Scripts/allowHttp.sh
 bash /home/server/Scripts/allowLo.sh
 bash /home/server/Scripts/allowSMTP.sh
+bash /home/server/Scripts/allowWhoIs.sh
 iptables -nvL
